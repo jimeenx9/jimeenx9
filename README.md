@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Alberto Jiménez!
 
-<!--
-**jimeenx9/jimeenx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+🚀 Apasionado por la **programación**, la **ciberseguridad** y el **desarrollo web**.  
+🌱 En constante aprendizaje y mejora personal.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 💡 Me encanta entender **cómo funcionan las cosas por dentro**: desde una web hasta un sistema en la nube.  
+- 🔐 Interesado en **ciberseguridad**, especialmente en **pentesting** y **auditoría web**.  
+- 🧩 Disfruto construyendo proyectos completos: **frontend + backend + bases de datos + despliegue con Docker y AWS**.  
+- 📚 Actualmente estoy aprendiendo **Spring Boot**, **Java avanzado** y **JavaScript moderno**.  
+- 💬 Me motiva crear proyectos con sentido, que funcionen y que se vean bien.  
+- ⚡ Mi objetivo: ser un desarrollador completo que destaque por su **calidad, constancia y curiosidad**.
+
+---
+
+## ⚙️ Tecnologías que uso
+
+### 🌐 Frontend  
+🧱 HTML  
+🎨 CSS  
+⚡ JavaScript  
+
+### ⚙️ Backend  
+🐘 PHP  
+☕ Java  
+🍃 Spring Boot  
+
+### 🐳 DevOps & Cloud  
+🐳 Docker  
+☁️ AWS EC2  
+🧭 Apache / Nginx  
+
+### 🗄️ Bases de datos  
+🧩 MySQL  
+🐬 MariaDB  
+
+### 🔒 Ciberseguridad  
+🕵️‍♂️ OSINT  
+💣 Metasploit  
+🔍 Pentesting  
+
+### 🧰 Herramientas de desarrollo  
+🧑‍💻 Git & GitHub  
+🧠 Visual Studio Code  
+🎯 IntelliJ IDEA  
+
+---
+
+✨ *"El código no solo es lógica, también es una forma de arte."*  
