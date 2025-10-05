@@ -39,11 +39,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-### 🔒 Ciberseguridad  
-![OSINT](https://img.shields.io/badge/OSINT-1E90FF?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square)
-![Pentesting](https://img.shields.io/badge/Pentesting-FF3C00?style=flat-square)
-
 ### 🧰 Herramientas de desarrollo  
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
