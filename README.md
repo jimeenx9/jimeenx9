@@ -106,9 +106,9 @@
 
 ## 🚀 Proyectos y áreas en las que estoy trabajando
 
-- 🎓 **SkillAcademy** — plataforma educativa tipo Udemy con academias, cursos, progreso, notificaciones, roles y gestión de contenido.
-- 📲 **Flujos con IA y bots** — captura de datos por texto/audio, validación contra base de datos y registro estructurado.
-- 🔐 **Ciberseguridad** — formación en fundamentos, hacking web, OSINT, pentesting y auditoría.
+- 🎓 **SkillAcademy** - plataforma educativa tipo Udemy con academias, cursos, progreso, notificaciones, roles y gestión de contenido.
+- 📲 **Flujos con IA y bots** - captura de datos por texto/audio, validación contra base de datos y registro estructurado.
+- 🔐 **Ciberseguridad** - formación en fundamentos, hacking web, OSINT, pentesting y auditoría.
 
 ---
 
